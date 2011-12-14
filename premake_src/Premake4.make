@@ -7,9 +7,7 @@ ifndef verbose
   SILENT = @
 endif
 
-ifndef CC
   CC = gcc
-endif
 
 ifndef CXX
   CXX = g++
